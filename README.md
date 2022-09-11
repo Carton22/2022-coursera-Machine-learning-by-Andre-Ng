@@ -39,4 +39,4 @@ the slides of course1 have been updated
 pip install -r requirements.txt
 ```
 
-mac/linux用户需将pip切换成pip3
+mac/linux用户需将pip切换成pip3# 2022-coursera-Machine-learning-by-Andre-Ng
